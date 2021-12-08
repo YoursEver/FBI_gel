@@ -4,6 +4,9 @@ This is a fast-blind-inquiry (FBI) method for post-processing modifications on g
 
 This is an encrypted MATLAB file, and this program can be called simply by entering "noise_pattern_DFTpsbk('inputfilename.bmp')" in MATLAB command line.
 
+As for the way to interprete our inquiry result, please refer to my IEEE GlobalSIP 2018 paper or refer to my arXiv manuscript.
+This project was supported by the Ministry of Science and Technology, Taiwan (MOST 107-2320-B-030-012-MY3).
+
 
 Please cite:
 @inproceedings{shao2018unveiling,
